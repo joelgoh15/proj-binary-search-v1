@@ -19,6 +19,6 @@ Technology stacks and approach used:
     <li>.Net Frameworok 4.6</li>
     <li>Console Application</li>
     <li>C#</li>
-    <li>Binary Search (C#)</li>
+    <li>Binary search algorithm</li>
   </ul>
 </ul>
